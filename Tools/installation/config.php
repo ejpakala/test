@@ -4,7 +4,7 @@
 	 * the Tools directory of this project.
 	 */
 	//example: define("BASE_URL","/test_projects/applicants/ehrich/Tools/");
-	define("BASE_URL","/Tools/");
+	define("BASE_URL","/ejpakala/test/Tools/");
 	
 	//no need to change
 	define("ROOT_PATH",$_SERVER["DOCUMENT_ROOT"] . BASE_URL);
